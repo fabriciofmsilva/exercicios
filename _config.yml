@@ -22,7 +22,7 @@ title: Faça Exercícios
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Exercícios para você fazer, sempre procure um profissional da área pra te ajudar.
-baseurl: "/exercicios" # the subpath of your site, e.g. /blog
+baseurl: "/exercise" # the subpath of your site, e.g. /blog
 url: "https://fabriciofmsilva.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
