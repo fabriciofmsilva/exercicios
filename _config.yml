@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Faça Exercícios
+title: Exercises
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Exercícios para você fazer, sempre procure um profissional da área pra te ajudar.
@@ -30,7 +30,6 @@ google_analytics: UA-22890269-1
 
 header_pages:
   - about
-  - portfolio
 
 # Build settings
 theme: minima

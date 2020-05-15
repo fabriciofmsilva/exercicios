@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: post
 title: "Peito"
 videos:
 ---

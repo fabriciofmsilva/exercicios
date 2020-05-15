@@ -1,5 +1,5 @@
 ---
-layout: linkpage
+layout: home
 title: "Exercícios"
 links:
   - title: Aquecimento
