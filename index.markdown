@@ -8,4 +8,6 @@ links:
     url: chest
   - title: Perna
     url: leg
+  - title: Egoscue
+    url: egoscue
 ---
